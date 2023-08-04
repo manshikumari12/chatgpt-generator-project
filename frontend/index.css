@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: rgb(59, 164, 249);
+    width: 100%;
+    height: 50px;
+
+}
+section{
+    background-color: rgb(228, 228, 222);
+    width: 100%;
+    height: 675px;
+    border: 1px solid white;
+
+
+}
+.chat{
+    background-color: rgb(140, 140, 98);
+}
+.inp{
+margin-top: 540px;
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.inp input{
+    width: 100%;
+    padding: 20px;
+}
+.inp button{
+color: white;
+background-color:rgba(0, 0, 0, 0.654);
+border: none;
+padding: 5px;
+}
